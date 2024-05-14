@@ -1,5 +1,5 @@
 const chaveAPI = "c2948389" //Chave API registro Vítor
-const filme = ["love","home"];
+const filme = ["love","home","baby"];
 
 for (let j = 0; j < filme.length; j++) {
     try {
